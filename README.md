@@ -19,3 +19,4 @@
 # 参考URL
 - [tweetから extended_entities が取得できない場合の対策](https://qiita.com/soma_sekimoto/items/65c664f00573284b0b74)
 - [2018年6月のステージ情報](https://twitter.com/SplatoonJP/status/1001995245863698432)
+- [Json beautifier](https://jsonformatter.curiousconcept.com/)  
