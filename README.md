@@ -15,3 +15,7 @@
 # 実行結果
 ![image](https://user-images.githubusercontent.com/102900238/166237304-ba98ba0a-c83f-4916-b2c4-e44840f96fce.png)
 ![image](https://user-images.githubusercontent.com/102900238/166237339-3ecbf9a8-4fa1-4b53-a238-4c1ed4921cd7.png)
+
+# 参考URL
+- [tweetから extended_entities が取得できない場合の対策](https://qiita.com/soma_sekimoto/items/65c664f00573284b0b74)
+- [2018年6月のステージ情報](https://twitter.com/SplatoonJP/status/1001995245863698432)
